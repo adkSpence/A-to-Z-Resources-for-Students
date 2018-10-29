@@ -94,3 +94,8 @@
 - [Siraj Raval](https://github.com/llSourcell)
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
+- [Andrew Ng]("https://twitter.com/AndrewYNg")
+- [Fei-Fei Li]("https://twitter.com/drfeifei")
+- [Andrew Trask]("https://twitter.com/iamtrask")
+- [Chris Olah]("https://twitter.com/ch402")
+
